@@ -1,0 +1,36 @@
+{
+  "name": "real-time-socket",
+  "version": "1.0.0",
+  "description": "This is real-time-socket web app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node" :"10.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahabyounas/real-time-socket-webapp.git"
+  },
+  "keywords": [
+    "real-time",
+    "socket-IO",
+    "npm",
+    "nodejs",
+    "express",
+    "sockets",
+    "realtime",
+    "webapp"
+  ],
+  "author": "Shahab Younas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahabyounas/real-time-socket-webapp/issues"
+  },
+  "homepage": "https://github.com/shahabyounas/real-time-socket-webapp#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
