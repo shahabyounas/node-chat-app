@@ -11,8 +11,7 @@
     "node" :"10.5.0"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/shahabyounas/real-time-socket-webapp.git"
+    "type": "git"
   },
   "keywords": [
     "real-time",
